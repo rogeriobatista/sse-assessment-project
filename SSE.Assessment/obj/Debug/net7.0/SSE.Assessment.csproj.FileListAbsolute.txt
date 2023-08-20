@@ -1,3 +1,10 @@
+D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.AssemblyInfoInputs.cache
+D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.AssemblyInfo.cs
+D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.csproj.CoreCompileInputs.cache
+D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.RazorAssemblyInfo.cache
+D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.RazorAssemblyInfo.cs
 D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\bin\Debug\net7.0\appsettings.Development.json
 D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\bin\Debug\net7.0\appsettings.json
 D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\bin\Debug\net7.0\SSE.Assessment.staticwebassets.runtime.json
@@ -6,13 +13,6 @@ D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\bin\Debug\net7.0\SSE.As
 D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\bin\Debug\net7.0\SSE.Assessment.runtimeconfig.json
 D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\bin\Debug\net7.0\SSE.Assessment.dll
 D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\bin\Debug\net7.0\SSE.Assessment.pdb
-D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.GeneratedMSBuildEditorConfig.editorconfig
-D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.AssemblyInfoInputs.cache
-D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.AssemblyInfo.cs
-D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.csproj.CoreCompileInputs.cache
-D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.MvcApplicationPartsAssemblyInfo.cache
-D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.RazorAssemblyInfo.cache
-D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.RazorAssemblyInfo.cs
 D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\staticwebassets\msbuild.SSE.Assessment.Microsoft.AspNetCore.StaticWebAssets.props
 D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\staticwebassets\msbuild.build.SSE.Assessment.props
 D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SSE.Assessment.props

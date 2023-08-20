@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\clock.js"
     },
     {
+      "Id": "D:\\Projetcs\\Allari\\sse-assessment-project\\SSE.Assessment\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
       "Id": "D:\\Projetcs\\Allari\\sse-assessment-project\\SSE.Assessment\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

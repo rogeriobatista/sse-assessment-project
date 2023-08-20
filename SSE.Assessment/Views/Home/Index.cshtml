@@ -18,7 +18,11 @@
         </div>
     </div>
     <div class="col-lg-6">
-        <p>Main Content</p>
+        <div id="summary">
+            <p>This application presents a list of registered photo albums, displays some random photos and the current position of your cursor.</p>
+            <button class="ripple" id="refresh-button">Refresh</button>
+        </div>
+        <ul class="list-group list-group-flush" id="main-content"></ul>
     </div>
     <div class="col-lg-3">
         <div id="image-slider" class="carousel carousel-dark slide">
@@ -29,20 +33,20 @@
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="10000">
-                    <img src="https://images.placeholders.dev/?width=750&height=400" class="d-block w-100" alt="Image 1">
+                    <img src="https://via.placeholder.com/600/92c952" class="d-block w-100" alt="Image 1">
                 </div>
                 <div class="carousel-item" data-bs-interval="2000">
-                    <img src="https://images.placeholders.dev/?width=750&height=400" class="d-block w-100" alt="Image 2">
+                    <img src="https://via.placeholder.com/600/771796" class="d-block w-100" alt="Image 2">
                 </div>
                 <div class="carousel-item">
-                    <img src="https://images.placeholders.dev/?width=750&height=400" class="d-block w-100" alt="Image 3">
+                    <img src="https://via.placeholder.com/600/24f355" class="d-block w-100" alt="Image 3">
                 </div>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+            <button class="carousel-control-prev" type="button" data-bs-target="#image-slider" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Previous</span>
             </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+            <button class="carousel-control-next" type="button" data-bs-target="#image-slider" data-bs-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
             </button>

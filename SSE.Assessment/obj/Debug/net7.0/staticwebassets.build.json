@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JJYtZtkR9InEWc1kbqSPtf9mzZgDw0YVY8ZIrVH4EYI=",
+  "Hash": "MSxK+zpQVLjx4P47IrVaBYmK3zFO2zxxBaxoWKhwb20=",
   "Source": "SSE.Assessment",
   "BasePath": "_content/SSE.Assessment",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\clock.js"
+    },
+    {
+      "Identity": "D:\\Projetcs\\Allari\\sse-assessment-project\\SSE.Assessment\\wwwroot\\js\\main.js",
+      "SourceId": "SSE.Assessment",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetcs\\Allari\\sse-assessment-project\\SSE.Assessment\\wwwroot\\",
+      "BasePath": "_content/SSE.Assessment",
+      "RelativePath": "js/main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
       "Identity": "D:\\Projetcs\\Allari\\sse-assessment-project\\SSE.Assessment\\wwwroot\\js\\site.js",
