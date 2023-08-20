@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qLUHqZuauJenztLfYWU4G0gLOZ5PF0q5zm0shvc5tIjLdt7VQZdjJud/qp+bZoGZCYIcEez09swpb5OP7MWVeQ==",
+  "dgSpecHash": "KIMcVRDwKTqUen0S2iJ/m4QpcZIMdP1KzKKXBMCKIyk7mfqeTOJlBH4Wp5mWhYy3LRTqYCAe2bXHRkR2LMa8EA==",
   "success": true,
   "projectFilePath": "D:\\Projetcs\\Allari\\sse-assessment-project\\SSE.Assessment\\SSE.Assessment.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\roger\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+    "C:\\Users\\roger\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
+    "C:\\Users\\roger\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

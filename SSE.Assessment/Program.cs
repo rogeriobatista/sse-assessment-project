@@ -1,7 +1,17 @@
+using SSE.Assessment.Domain.Users.Interfaces;
+using SSE.Assessment.Domain.Users.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddHttpClient("Users", httpClient =>
+{
+    httpClient.BaseAddress = new Uri("https://jsonplaceholder.typicode.com/");
+});
+
+builder.Services.AddScoped<IUserService, UserService>();
 
 var app = builder.Build();
 

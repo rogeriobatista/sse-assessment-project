@@ -4,7 +4,7 @@ registerEvents();
 getContent();
 
 function getContent() {
-    fetch('https://jsonplaceholder.typicode.com/users')
+    fetch('/api/users')
         .then(response => response.json())
         .then(json => render(json));
 }

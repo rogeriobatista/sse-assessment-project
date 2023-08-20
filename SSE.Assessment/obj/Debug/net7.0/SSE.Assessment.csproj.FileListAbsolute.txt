@@ -28,3 +28,6 @@ D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\refint
 D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.pdb
 D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.genruntimeconfig.cache
 D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\ref\SSE.Assessment.dll
+D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.csproj.AssemblyReference.cache
+D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Projetcs\Allari\sse-assessment-project\SSE.Assessment\obj\Debug\net7.0\SSE.Assessment.csproj.CopyComplete
