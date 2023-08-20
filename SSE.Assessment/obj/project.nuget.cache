@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qLUHqZuauJenztLfYWU4G0gLOZ5PF0q5zm0shvc5tIjLdt7VQZdjJud/qp+bZoGZCYIcEez09swpb5OP7MWVeQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projetcs\\Allari\\sse-assessment-project\\SSE.Assessment\\SSE.Assessment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roger\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
